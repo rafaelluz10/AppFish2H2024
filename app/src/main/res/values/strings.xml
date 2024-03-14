@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppFish</string>
+    <string name="insira_o_nome_do_usu_rio">Insira o nome do usuário</string>
+    <string name="insira_a_senha_do_usu_rio">Insira a senha do usuário</string>
+    <string name="n_o_tem_cadastro_clique_aqui">Não tem cadastro? Clique aqui.</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+</resources>
